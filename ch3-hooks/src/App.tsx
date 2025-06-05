@@ -1,5 +1,7 @@
 import "./App.css";
-import Timer from "./labs/02-useEffect/Timer";
+// import ToggleSwitch from "./code-live/03-customHooks/ToggleSwitch";
+import QuickMathGame from "./labs/04-summary/QuickMathGame";
+// import Timer from "./labs/02-useEffect/Timer";
 // import FetchData from "./code-live/02-useEffect/FetchData";
 // import PostLoader from "./labs/02-useEffect/PostLoader";
 
@@ -14,7 +16,7 @@ import Timer from "./labs/02-useEffect/Timer";
 function App() {
   return (
     <>
-      <Timer />
+      <QuickMathGame />
     </>
   );
 }
